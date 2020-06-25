@@ -1,8 +1,8 @@
 # InstaBot
-This bot could be used to increase the number of followers, giving likes to many posts and many other features. The bot is capable of entering the instagram account for now, and I am still working on it to provide many features. The script asks for the username and password " Don't worry I won't steal your credentials ^_^" and access your account immidiately, the script is under maintaince, just wait for it. 
+This bot could be used to increase the number of followers, give likes to many posts and many other features. The bot is capable of entering the instagram account for now, and I am still working on it to provide many features. The script asks for the username and password " Don't worry I won't steal your credentials ^_^" and access your account immidiately, the script is under maintaince, just wait for it. 
 
 # Note:
-make sure you install senlenium library and Chrome driver or Firefox driver "choose the one you wish" in order for the bot to start working.
+Make sure you install senlenium library and Chrome driver or Firefox driver "choose the one you wish" in order for the bot to start working.
 
 # Installation:
 1) python -m pip install selenium

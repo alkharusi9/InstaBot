@@ -5,10 +5,12 @@ This bot could be used to increase the number of followers, give likes to many p
 Make sure you install senlenium library and Chrome driver or Firefox driver "choose the one you wish" in order for the bot to start working.
 
 # Installation:
+For Linux and MAC OS:
 1) python -m pip install selenium
 2) python setup.py install
 Now here are the steps to install the webdriver needed for this bot:
 1) wget https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-linux64.tar.gz
 2) chmod +x geckodriver
 3) sudo mv geckodriver /usr/local/bin/
+
 For full details, please visit https://www.geeksforgeeks.org/how-to-install-selenium-in-python/. 
